@@ -2,6 +2,9 @@
 *.exe
 *.out
 *.bin
+*
+!*.*
+!*/
 
 # Or ignore specific executables
 my_executable_name
