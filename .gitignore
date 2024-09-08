@@ -1,0 +1,11 @@
+# Ignore all executable files
+*.exe
+*.out
+*.bin
+
+# Or ignore specific executables
+my_executable_name
+another_executable
+
+# Ignore executables in a specific directory
+/build/*.exe
